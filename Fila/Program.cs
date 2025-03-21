@@ -34,5 +34,5 @@ stack.Pop();
 
 foreach(var item in stack)
 {
-    Console.WriteLine(item);    
+    Console.WriteLine(item);
 }
