@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseSelada", "ClasseSelada\ClasseSelada.csproj", "{0737AEDE-1491-4F38-9951-0BBCDF6C8BA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseAbstrata", "ClasseAbstrata\ClasseAbstrata.csproj", "{B794C68C-4CD8-471F-BBDF-9913B7724DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{0737AEDE-1491-4F38-9951-0BBCDF6C8BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0737AEDE-1491-4F38-9951-0BBCDF6C8BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0737AEDE-1491-4F38-9951-0BBCDF6C8BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B794C68C-4CD8-471F-BBDF-9913B7724DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B794C68C-4CD8-471F-BBDF-9913B7724DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B794C68C-4CD8-471F-BBDF-9913B7724DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B794C68C-4CD8-471F-BBDF-9913B7724DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
