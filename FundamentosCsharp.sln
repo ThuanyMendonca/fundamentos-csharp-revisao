@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsExemplo", "Except
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoArquivos", "ManipulandoArquivos\ManipulandoArquivos.csproj", "{A6AC8EB9-319C-432A-B697-383CDF921FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExemplo", "LinqExemplo\LinqExemplo.csproj", "{80612EE0-D407-4F9D-858C-99EB7A34666B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{A6AC8EB9-319C-432A-B697-383CDF921FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6AC8EB9-319C-432A-B697-383CDF921FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6AC8EB9-319C-432A-B697-383CDF921FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
