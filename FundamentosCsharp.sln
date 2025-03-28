@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoArquivos", "Mani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExemplo", "LinqExemplo\LinqExemplo.csproj", "{80612EE0-D407-4F9D-858C-99EB7A34666B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppClientes", "AppClientes\AppClientes.csproj", "{2A1B2C7A-5907-490B-8C36-35A8C380957D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80612EE0-D407-4F9D-858C-99EB7A34666B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1B2C7A-5907-490B-8C36-35A8C380957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1B2C7A-5907-490B-8C36-35A8C380957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1B2C7A-5907-490B-8C36-35A8C380957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1B2C7A-5907-490B-8C36-35A8C380957D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
