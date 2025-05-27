@@ -22,13 +22,15 @@ class Program
         Console.Clear();
         
         Console.WriteLine("Cadastro de Clientes");
-        Console.WriteLine("-----------------------");
+        Console.WriteLine("************************");
         Console.WriteLine("1. Cadastrar Cliente");
         Console.WriteLine("2. Listar Clientes");
         Console.WriteLine("3. Editar Cliente");
         Console.WriteLine("4. Excluir Cliente");
         Console.WriteLine("5. Sair");
-        Console.WriteLine("-----------------------");
+        Console.WriteLine("************************");
+        
+        Console.WriteLine("DES");
         
         EscolherOpcao();
     }
